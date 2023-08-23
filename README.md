@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Staci-Gilliam
-- 👀 I’m interested in all things Star Wars, cats, and artistry
-- 🌱 I’m currently learning all the basics
-- 💞️ I’m looking to collaborate on anything that will allow me to learn as we go
+- 👀 I’m interested in all things Star Wars, cats, and artistry.
+- 🌱 I’m currently learning all the basics in coding and am excited to get back into it after 20 years.
+- 💞️ I’m looking to collaborate on anything that will allow me to learn as we go.
 - 📫 How to reach me stacigilliam@gmail.com
 
 <!---
